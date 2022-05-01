@@ -12,7 +12,7 @@ p {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-image: url(file:///C:/Users/user/Desktop/meg/images/bbb.png);
+	background-image: url('../images/bbb.png');
 	background-attachment: fixed;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: rgb(225, 225, 225, 0);
